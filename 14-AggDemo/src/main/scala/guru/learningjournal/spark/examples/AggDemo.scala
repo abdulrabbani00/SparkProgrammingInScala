@@ -20,6 +20,8 @@ object AggDemo extends Serializable {
       .option("inferSchema", "true")
       .load("data/invoices.csv")
 
+    invoiceDF.show()
+
         invoiceDF.select(
           count("*").as("Count *"),
           sum("Quantity").as("TotalQuantity"),

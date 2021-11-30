@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/hellospark_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	abdul[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/classes/abdul[0m
+[0m[[0m[0mdebug[0m] [0m[0m	abdul/learningjournal[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/classes/abdul/learningjournal[0m
+[0m[[0m[0mdebug[0m] [0m[0m	abdul/learningjournal/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/classes/abdul/learningjournal/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	abdul/learningjournal/spark/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/classes/abdul/learningjournal/spark/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	abdul/learningjournal/spark/example/HelloSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/classes/abdul/learningjournal/spark/example/HelloSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	abdul/learningjournal/spark/example/HelloSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abdulrabbani/GitHub/abdulrabbani00/SparkProgrammingInScala/personal/HelloSpark/target/scala-2.12/classes/abdul/learningjournal/spark/example/HelloSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,6 +1,7 @@
 package guru.learningjournal.spark.examples
 
 import org.apache.log4j.Logger
+import org.apache.spark.sql.functions.spark_partition_id
 import org.apache.spark.sql.{SaveMode, SparkSession}
 
 object DataSinkDemo extends Serializable {
@@ -20,8 +21,8 @@ object DataSinkDemo extends Serializable {
 
     //Number of files?
     logger.info("Num Partitions before: " + flightTimeParquetDF.rdd.getNumPartitions)
-    import org.apache.spark.sql.functions.spark_partition_id
     flightTimeParquetDF.groupBy(spark_partition_id()).count().show()
+
     val partitionedDF = flightTimeParquetDF.repartition(5)
     logger.info("Num Partitions after: " + partitionedDF.rdd.getNumPartitions)
     partitionedDF.groupBy(spark_partition_id()).count().show()
